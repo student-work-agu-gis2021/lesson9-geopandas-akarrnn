@@ -82,7 +82,6 @@ geo.to_file(fp)
 #Check if output file exists
 assert os.path.isfile(fp), "Output file does not exits."
 
-
 # Next, you can continue to Exercise_9_problem_2.
 
 
