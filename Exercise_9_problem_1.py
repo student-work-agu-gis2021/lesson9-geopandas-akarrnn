@@ -49,7 +49,7 @@ print(poly.geom_type)
 # Create an empty GeoDataFrame
 geo = None
 # YOUR CODE HERE 3
-
+geo['geometry'] =poly
 # CODE FOR TESTING YOUR SOLUTION
 
 # Check the content of the GeoDataFrame:
